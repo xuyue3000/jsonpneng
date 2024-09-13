@@ -14,9 +14,9 @@ proxies:
   - {name: 🇺🇲 VUS04, server: 149.28.223.186, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.made-in-china.com}}
   - {name: 🇺🇲 VUS05, server: 140.82.49.139, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.alibaba.com}}
   - {name: 🇺🇲 VUS06, server: 149.28.220.7, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.bing.com}}
-  - {name: 🇺🇲 VUS07, server: 66.42.109.48, port: 7050, type: vmess, "http-opts":{"path":["/"]}, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, network:"http"}
-  - {name: 🇺🇲 VUS08, server: 149.28.78.17, port: 7050, type: vmess, "http-opts":{"path":["/"]}, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, network:"http"}
-  - {name: 🇺🇲 VUS09, server: 149.28.92.159, port: 7050, type: vmess, "http-opts":{"path":["/"]}, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, network:"http"}
+  - {name: 🇺🇲 VUS07, server: 66.42.109.48, port: 7050, type: vmess, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇲 VUS08, server: 149.28.78.17, port: 7050, type: vmess, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇲 VUS09, server: 149.28.92.159, port: 7050, type: vmess, uuid: 6481192d-baec-481d-9904-bb5135da047c, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇲 VUS10, server: 66.42.109.48, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.made-in-china.com}}
   - {name: 🇺🇲 VUS11, server: 149.28.78.17, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.alibaba.com}}
   - {name: 🇺🇲 VUS12, server: 149.28.92.159, port: 443, type: ss, cipher: aes-256-gcm, password: capsulcn.com, plugin: obfs, plugin-opts: {mode: http, host: www.bing.com}}
