@@ -71,7 +71,7 @@ proxy-groups:
       - 🇯🇵 VJP03
       - 🇯🇵 VJP04
       - 🇯🇵 VJP05
-  - name: 公司网站
+  - name: ⚙️ 公司网站
     type: select
     proxies:
       - 🚀 节点选择
@@ -253,10 +253,10 @@ proxy-groups:
       - 🇯🇵 VJP04
       - 🇯🇵 VJP05
 rules:
-  - DOMAIN-SUFFIX,capsulcn.com,公司网站
-  - DOMAIN-SUFFIX,ipharmachine.com,公司网站
-  - DOMAIN-SUFFIX,huadapharma.com,公司网站
-  - DOMAIN-SUFFIX,hifmachine.com,公司网站
+  - DOMAIN-SUFFIX,capsulcn.com,⚙️ 公司网站
+  - DOMAIN-SUFFIX,ipharmachine.com,⚙️ 公司网站
+  - DOMAIN-SUFFIX,huadapharma.com,⚙️ 公司网站
+  - DOMAIN-SUFFIX,hifmachine.com,⚙️ 公司网站
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
