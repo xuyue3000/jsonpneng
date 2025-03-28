@@ -1,15 +1,1 @@
-{
-  "configs": [
-    {"server":"45.32.82.57","server_port": 443,"password": "capsulcn.com","method": "aes-128-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.bing.com","remarks": "VUS01","timeout": 20,"warnLegacyUrl": false},
-    {"server":"45.76.75.186","server_port": 443,"password": "capsulcn.com","method": "aes-128-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.alibaba.com","remarks": "VUS02","timeout": 20,"warnLegacyUrl": false},
-    {"server":"108.61.217.124","server_port": 443,"password": "capsulcn.com","method": "aes-128-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.made-in-china.com","remarks": "VUS03","timeout": 20,"warnLegacyUrl": false},
-    {"server":"149.28.223.186","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.made-in-china.com","remarks": "VUS04","timeout": 20,"warnLegacyUrl": false},
-    {"server":"140.82.49.139","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.alibaba.com","remarks": "VUS05","timeout": 20,"warnLegacyUrl": false},
-    {"server":"149.28.220.7","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.bing.com","remarks": "VUS06","timeout": 20,"warnLegacyUrl": false},
-    {"server":"67.198.131.40","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.made-in-china.com","remarks": "KUS01","timeout": 20,"warnLegacyUrl": false},
-    {"server":"67.198.131.41","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.alibaba.com","remarks": "KUS02","timeout": 20,"warnLegacyUrl": false},
-    {"server":"67.198.131.42","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.bing.com","remarks": "KUS03","timeout": 20,"warnLegacyUrl": false},
-    {"server":"45.32.32.129","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.bing.com","remarks": "VJP01","timeout": 20,"warnLegacyUrl": false},
-    {"server":"198.13.63.244","server_port": 443,"password": "capsulcn.com","method": "aes-256-gcm", "plugin": "obfs-local","plugin_opts": "obfs=http;obfs-host=www.alibaba.com","remarks": "VJP02","timeout": 20,"warnLegacyUrl": false}
-  ]
-}
+
